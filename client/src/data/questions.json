@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Best basketball player",
+    "responses": ["Michael Jordan", "Magic Johnson", "Lebron James"],
+    "votes": [5, 2, 3, 1]
+  },
+  {
+    "question": "Best soccer player",
+    "responses": ["Messi", "Pele", "Maradona"],
+    "votes": [5, 2, 3, 1]
+  },
+  {
+    "question": "Best UFC fighter",
+    "responses": [
+      "Jon Jones",
+      "Demetrius Johnson",
+      "Khabib Nurmagomedov",
+      "George St. Pierre"
+    ],
+    "votes": [5, 2, 3, 1]
+  }
+]

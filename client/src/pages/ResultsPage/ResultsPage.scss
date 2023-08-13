@@ -1,0 +1,51 @@
+.results {
+  background-color: rgba(27, 27, 50, 0.6);
+  border-radius: 10px;
+  border: 2px solid white;
+  padding: 0 1rem;
+  margin: auto;
+
+  &__container {
+    width: 100%;
+  }
+
+  &_h1 {
+    color: white;
+    text-align: center;
+    margin: 2rem 0;
+    font-weight: 300;
+  }
+}
+
+canvas {
+  margin: 1rem 0;
+  background-color: white;
+}
+
+@media only screen and (min-width: 786px) {
+  .results {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    &__container {
+    }
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .results {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    &__container {
+      width: 40%;
+      margin: 0 1rem;
+    }
+  }
+}
