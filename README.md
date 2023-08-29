@@ -1,1 +1,1 @@
-# poll-pair-hackaton
+# poll-pair-hackaton-api
