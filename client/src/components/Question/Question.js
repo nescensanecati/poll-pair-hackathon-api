@@ -16,7 +16,7 @@ function Question({ question, responses }) {
       option: e.target.id,
     };
     axios
-      .post("http://localhost:8080/vote", questionResponse)
+      .post("https://database-backend-brainstation-70fdd396b787.herokuapp.com/vote", questionResponse)
       .then()
       .catch((err) => {
         console.log(err);

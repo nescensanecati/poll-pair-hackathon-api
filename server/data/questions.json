@@ -1,1 +1,26 @@
-[{"question":"Best basketball player","responses":["Michael Jordan","Magic Johnson","Lebron James","Kevin Durant"],"votes":[39,1,5,4]},{"question":"Best soccer player","responses":["Messi","Pele","Maradona","Alejandro Diaz"],"votes":[37,41,3,4]},{"question":"Best UFC fighter","responses":["Jon Jones","Ivan Salgado","Khabib Nurmagomedov","George St. Pierre"],"votes":[11,33,3,2]}]
+[
+  {
+    "question": "Best basketball player",
+    "responses": [
+      "Michael Jordan",
+      "Magic Johnson",
+      "Lebron James",
+      "Kevin Durant"
+    ],
+    "votes": [0, 0, 0, 0]
+  },
+  {
+    "question": "Best soccer player",
+    "responses": ["Messi", "Pele", "Maradona"],
+    "votes": [0, 0, 0]
+  },
+  {
+    "question": "Best UFC fighter",
+    "responses": [
+      "Jon Jones",
+      "Khabib Nurmagomedov",
+      "George St. Pierre"
+    ],
+    "votes": [0, 0, 0]
+  }
+]

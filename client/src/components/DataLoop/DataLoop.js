@@ -7,7 +7,7 @@ function DataLoop() {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      const url = `http://localhost:8080/details`;
+      const url = `https://database-backend-brainstation-70fdd396b787.herokuapp.com/results`;
 
       axios
         .get(url)

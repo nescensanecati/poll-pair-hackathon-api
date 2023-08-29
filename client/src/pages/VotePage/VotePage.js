@@ -8,7 +8,7 @@ function VotePage() {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:8080/`)
+      .get(`https://database-backend-brainstation-70fdd396b787.herokuapp.com/results`)
       .then((response) => {
         setQuestions(response.data);
       })

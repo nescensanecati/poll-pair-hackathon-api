@@ -4,7 +4,7 @@ import axios from "axios";
 function HomePage() {
   const handleNewId = () => {
     axios
-      .post("http://localhost:8080/")
+      .post("https://database-backend-brainstation-70fdd396b787.herokuapp.com/")
       .then()
       .catch((err) => {
         console.log(err);
