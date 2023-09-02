@@ -24,4 +24,4 @@ This site is using a frontend site that can be checked in the Git repository:
 https://github.com/nescensanecati/poll-pair-hackaton
 
 If you want to see this project deployed and in action, please go to: 
-https://main--capable-piroshki-4e28e1.netlify.app/
+https://pair-hackaton.alex-diaz.info/
