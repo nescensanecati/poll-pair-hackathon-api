@@ -1,6 +1,6 @@
 # Poll-Brothers Website
 
-Poll-Brothers is a Brainstation hackaton project, we worked on this project for only a few hours, approximately from 9am to 4pm on Friday, August 11th. 
+Poll-Brothers is a Brainstation hackathon project, we worked on this project for only a few hours, approximately from 9am to 4pm on Friday, August 11th. 
 
 The principal objective of this project was to work as a team, compete and win. 
 
@@ -15,13 +15,13 @@ The collaborators for this repo are:
 - Alejandro Malagon Diaz (https://github.com/nescensanecati)
 
 This site is using a backend API that can be checked in the Git repository: 
-https://github.com/nescensanecati/poll-pair-hackaton-api
+https://github.com/nescensanecati/poll-pair-hackathon-api
 
 The API was adapted to be run in production, and it is now running in Heroku, under the domain: 
 https://database-backend-brainstation-70fdd396b787.herokuapp.com/
 
 This site is using a frontend site that can be checked in the Git repository: 
-https://github.com/nescensanecati/poll-pair-hackaton
+https://github.com/nescensanecati/poll-pair-hackathon
 
 If you want to see this project deployed and in action, please go to: 
 https://pair-hackaton.alex-diaz.info/
